@@ -31,6 +31,7 @@ This web application allows users to convert 2D images into interactive 3D point
 - Python 3.8+
 - pip
 
+
 ### Setup
 ```bash
 git clone https://github.com/your-username/2d-to-3d-app.git
@@ -39,20 +40,3 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-🧠 Learnings & Future Scope
-This project provided hands-on experience with deploying deep learning models, working with image depth estimation, and building intuitive data apps. Future enhancements may include:
-
-Mesh reconstruction and smoothing
-
-Support for video input
-
-Integration with AR/VR platforms
-
-🤝 Authors
-Vaishnavi S
-
-Rakshana P. B
-
-Saai Charan
-
-Sandmanleo E
